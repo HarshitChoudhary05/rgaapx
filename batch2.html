@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHAMPIONS_15_0_Maths</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #007acc;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+        }
+
+        #content {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .link {
+            display: block;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background: #f9f9f9;
+            text-decoration: none;
+            color: #333;
+            transition: all 0.3s;
+        }
+
+        .link:hover {
+            background: #007acc;
+            color: #fff;
+            border-color: #007acc;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .link {
+                padding: 8px;
+                font-size: 0.9rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 1.2rem;
+            }
+
+            .link {
+                padding: 6px;
+                font-size: 0.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CHAMPIONS_15_0_Maths</h1>
+        <div id="content"></div>
+    </div>
+    <script>
+        fetch('COMPUTER_Special_VOD_Batch_By_LABH_SINGH_NAIN_SIR_UPDATED_.txt')
+            .then(response => response.text())
+            .then(data => {
+                const contentDiv = document.getElementById('content');
+                const lines = data.split('\n');
+
+                lines.forEach(line => {
+                    const match = line.match(/^(.*?):(https?:\/\/\S+)/);
+                    if (match) {
+                        const title = match[1].trim();
+                        const url = match[2].trim();
+
+                        const link = document.createElement('a');
+                        link.href = url;
+                        link.textContent = title;
+                        link.className = 'link';
+                       
+
+                        contentDiv.appendChild(link);
+                    }
+                });
+            })
+            .catch(error => console.error('Error fetching the text file:', error));
+    </script>
+</body>
+</html>

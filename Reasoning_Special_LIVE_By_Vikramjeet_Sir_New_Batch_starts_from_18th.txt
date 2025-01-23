@@ -1,0 +1,203 @@
+(REASONING) Similarity 01:https://developerrg.vercel.app?course_id=162&video_id=89869
+(REASONING) Similarity 02:https://developerrg.vercel.app?course_id=162&video_id=90004
+(REASONING) Similarity 03:https://developerrg.vercel.app?course_id=162&video_id=90561
+(REASONING) Similarity (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-05-04-0.1603362211835908.pdf
+(REASONING) Similarity (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-05-04-0.4000499730366489.pdf
+(REASONING) Alphabet Test:https://developerrg.vercel.app?course_id=162&video_id=83715
+(REASONING) Alphabet Test 02:https://developerrg.vercel.app?course_id=162&video_id=84002
+(REASONING) Alphabet Test 03:https://developerrg.vercel.app?course_id=162&video_id=84183
+(REASONING) Alphabet Test 04:https://developerrg.vercel.app?course_id=162&video_id=84493
+(REASONING) Alphabet Test (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-03-28-0.6246659825533794.pdf
+(REASONING) Alphabet Test (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-03-30-0.7836404958523293.pdf
+(REASONING) Calendar Class 01:https://developerrg.vercel.app?course_id=162&video_id=92896
+(REASONING) Calendar Class 02:https://developerrg.vercel.app?course_id=162&video_id=93322
+(REASONING) Calendar Class 03:https://developerrg.vercel.app?course_id=162&video_id=95008
+(REASONING) Calendar Class 04:https://developerrg.vercel.app?course_id=162&video_id=96877
+(REASONING) Calendar Class 05:https://developerrg.vercel.app?course_id=162&video_id=97076
+(REASONING) Calendar (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-06-01-0.8451393061166192.pdf
+(REASONING) CALENDAR ( PRACTICE SHEET ):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-01-08-0.16795225281756543.pdf
+(REASONING) Calendar (Practice Sheet) Updated:https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-09-26-0.3160808506196444.pdf
+(REASONING) Counting Figure 01:https://developerrg.vercel.app?course_id=162&video_id=109786
+(REASONING) Counting Figure 02:https://developerrg.vercel.app?course_id=162&video_id=110393
+(REASONING) Counting Figure 03:https://developerrg.vercel.app?course_id=162&video_id=110767
+(REASONING) Counting Figure 04:https://developerrg.vercel.app?course_id=162&video_id=110901
+(REASONING) Counting Figure 05:https://developerrg.vercel.app?course_id=162&video_id=111177
+(REASONING) Counting Figure 06:https://developerrg.vercel.app?course_id=162&video_id=111200
+(REASONING) Counting Figure (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-08-26-0.11698386008781059.pdf
+(REASONING) Counting Figure (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-08-27-0.7975816473047894.pdf
+(REASONING) Dice 01:https://developerrg.vercel.app?course_id=162&video_id=114702
+(REASONING) Dice 02:https://developerrg.vercel.app?course_id=162&video_id=115148
+(REASONING) Dice 03:https://developerrg.vercel.app?course_id=162&video_id=115256
+(REASONING) Dice 04:https://developerrg.vercel.app?course_id=162&video_id=120377
+(REASONING) Dice (Class Notes):https://appxcontent.kaxa.in/paid_course4/2024-11-16-0.6246476587214345.pdf
+(REASONING) Dice (Practice Sheet):https://appxcontent.kaxa.in/paid_course4/2024-10-10-0.8490164160944145.pdf
+(REASONING) Direction Sense 01:https://developerrg.vercel.app?course_id=162&video_id=84974
+(REASONING) Direction Sense 02:https://developerrg.vercel.app?course_id=162&video_id=85788
+(REASONING) Direction Sense 03:https://developerrg.vercel.app?course_id=162&video_id=85948
+(REASONING) Direction Sense 04:https://developerrg.vercel.app?course_id=162&video_id=86030
+(REASONING) Direction Sense (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-04-01-0.9568711738261624.pdf
+(REASONING) Direction Sense (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-04-01-0.4900398570650619.pdf
+(REASONING) Ranking Arrangement 01:https://developerrg.vercel.app?course_id=162&video_id=87059
+(REASONING) Ranking Arrangement 02:https://developerrg.vercel.app?course_id=162&video_id=87375
+(REASONING) Ranking Arrangement 03:https://developerrg.vercel.app?course_id=162&video_id=87697
+(REASONING) Ranking Arrangement 04:https://developerrg.vercel.app?course_id=162&video_id=87829
+(REASONING) Ranking Arrangement (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-04-18-0.09161461236945168.pdf
+(REASONING) Ranking Arrangement (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-04-18-0.12411455069492927.pdf
+(REASONING) Seating Arrangement 01:https://developerrg.vercel.app?course_id=162&video_id=113275
+(REASONING) Seating Arrangement 02:https://developerrg.vercel.app?course_id=162&video_id=113602
+(REASONING) Seating Arrangement 03:https://developerrg.vercel.app?course_id=162&video_id=113894
+(REASONING) Sitting arrangement part 4:https://developerrg.vercel.app?course_id=162&video_id=115676
+(REASONING) Seating Arrangement (Class Notes):https://appxcontent.kaxa.in/paid_course4/2024-09-19-0.5623558376064106.pdf*--appx-key nluij80
+(REASONING) Seating Arrangement (Practice Sheet):https://appxcontent.kaxa.in/paid_course4/2024-09-19-0.3765370499379588.pdf*--appx-key 6ovLzsa
+(REASONING) Coding Decoding 01:https://developerrg.vercel.app?course_id=162&video_id=100066
+(REASONING) Coding Decoding 02:https://developerrg.vercel.app?course_id=162&video_id=100258
+(REASONING) Coding Decoding 03:https://developerrg.vercel.app?course_id=162&video_id=101582
+(REASONING) Coding - Decoding 04:https://developerrg.vercel.app?course_id=162&video_id=101676
+(REASONING) Coding Decoding 05:https://developerrg.vercel.app?course_id=162&video_id=101989
+(REASONING) Coding Decoding 06:https://developerrg.vercel.app?course_id=162&video_id=102691
+(REASONING) Coding Decoding 07:https://developerrg.vercel.app?course_id=162&video_id=102776
+(REASONING) Coding Decoding (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-07-05-0.8708793120972655.pdf
+(REASONING) CODING - DECODING ( PRACTICE SHEET ) UPDATED:https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-07-08-0.8014648230250068.pdf
+(REASONING) Age Problem 01:https://developerrg.vercel.app?course_id=162&video_id=125363
+(REASONING) Age Problem 02:https://developerrg.vercel.app?course_id=162&video_id=125785
+(REASONING) Age Problem (Class Notes):https://appxcontent.kaxa.in/paid_course4/2024-11-16-0.5494388510133599.pdf
+(REASONING) Age Problem (Practice Sheet):https://appxcontent.kaxa.in/paid_course4/2024-11-16-0.7850075228725832.pdf
+(REASONING) Blood Relation 01:https://developerrg.vercel.app?course_id=162&video_id=111568
+(REASONING) Blood Relation 02:https://developerrg.vercel.app?course_id=162&video_id=111706
+(REASONING) Blood Relation 03:https://developerrg.vercel.app?course_id=162&video_id=111908
+(REASONING) Blood Relation 04:https://developerrg.vercel.app?course_id=162&video_id=112405
+(REASONING) Blood Relation 05:https://developerrg.vercel.app?course_id=162&video_id=112522
+(REASONING) Blood Relation (Class Notes):https://appxcontent.kaxa.in/paid_course4/2024-09-19-0.5870159760480165.pdf*--appx-key rAvSzo0
+(REASONING) BLOOD RELATION Practice Sheet With Solution:https://appxcontent-mcdn.akamai.net.in/paid_course2/2024-02-01-0.017254444324975582.pdf
+(REASONING) Number Series 01:https://developerrg.vercel.app?course_id=162&video_id=97213
+(REASONING) Number Series 02:https://developerrg.vercel.app?course_id=162&video_id=97402
+(REASONING) Number Series 03:https://developerrg.vercel.app?course_id=162&video_id=97580
+(REASONING) Number Series 04:https://developerrg.vercel.app?course_id=162&video_id=98896
+(REASONING) Number series 05:https://developerrg.vercel.app?course_id=162&video_id=99122
+(REASONING) NUMBER SERIES (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-06-21-0.3115137504169696.pdf
+(REASONING) NUMBER SERIES ( PRACTICE SHEET ):https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2022-10-14-0.7468334315402105.pdf
+(REASONING) Number Series (Practice Sheet ):https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-09-14-0.27032028389106744.pdf
+(REASONING) Letter Series:https://developerrg.vercel.app?course_id=162&video_id=138814
+(REASONING) Letter Series 02:https://developerrg.vercel.app?course_id=162&video_id=138815
+(REASONING) Letter series Class Notes:https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-02-27-0.08329572912442074.pdf
+(REASONING) Letter Series Practice sheet:https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-02-27-0.0677463193281036.pdf
+(REASONING) ALPHABET SERIES 01:https://developerrg.vercel.app?course_id=162&video_id=139317
+(REASONING) ALPHABET SERIES 02:https://developerrg.vercel.app?course_id=162&video_id=139318
+(REASONING) ALPHABET SERIES (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course2/2024-02-21-0.1413063669329484.pdf
+(REASONING) ALPHABET SERIES  (Practice Sheet ):https://appxcontent-mcdn.akamai.net.in/paid_course2/2024-02-21-0.8180233010294682.pdf
+(REASONING) Alphanumeric Symbol:https://developerrg.vercel.app?course_id=162&video_id=95308
+(REASONING) Alphanumeric Symbol Series (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-06-14-0.334726877646373.pdf
+(REASONING) Alphanumeric Symbol Series (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-06-14-0.2160245199587132.pdf
+(REASONING) Analogy 01:https://developerrg.vercel.app?course_id=162&video_id=88016
+(REASONING) Analogy 02:https://developerrg.vercel.app?course_id=162&video_id=88208
+(REASONING) Analogy 04:https://developerrg.vercel.app?course_id=162&video_id=88671
+(REASONING) Analogy 03:https://developerrg.vercel.app?course_id=162&video_id=88634
+(REASONING) Analogy 05:https://developerrg.vercel.app?course_id=162&video_id=88768
+(REASONING) Analogy 06:https://developerrg.vercel.app?course_id=162&video_id=89861
+(REASONING) Analogy (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-04-30-0.5803179060466843.pdf
+(REASONING) Analogy (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-05-03-0.45857502213401813.pdf
+(REASONING) Analogy or Similarty of Figures:https://developerrg.vercel.app?course_id=162&video_id=139315
+(REASONING) Analogy or Similarty of Figure Class Notes:https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-03-01-0.9553152013406658.pdf
+(REASONING) Odd One Out 01:https://developerrg.vercel.app?course_id=162&video_id=133265
+(REASONING) Odd One Out 02:https://developerrg.vercel.app?course_id=162&video_id=136022
+(REASONING) Odd One Out 03:https://developerrg.vercel.app?course_id=162&video_id=136325
+(REASONING) Odd One Out 04:https://developerrg.vercel.app?course_id=162&video_id=136621
+(REASONING) ODD ONE OUT (Class Notes):https://appx-content-v2.classx.co.in/paid_course4/2024-12-23-0.8507648325442883.pdf
+(REASONING) Odd One Out ( PRACTICE SHEET ):https://appxcontent.kaxa.in/paid_course4/2024-12-02-0.20724909234031652.pdf
+(REASONING) Missing number 01:https://developerrg.vercel.app?course_id=162&video_id=103783
+(REASONING) Missing number 02:https://developerrg.vercel.app?course_id=162&video_id=104122
+(REASONING) Missing number 03:https://developerrg.vercel.app?course_id=162&video_id=104208
+(REASONING) Missing number 04:https://developerrg.vercel.app?course_id=162&video_id=104573
+(REASONING) Missing Number  (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-07-13-0.5035254041595438.pdf
+(REASONING) Missing number (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-07-18-0.5061292508374251.pdf
+(REASONING) Arrangement of Words:https://developerrg.vercel.app?course_id=162&video_id=102771
+(REASONING) Arrangements of Word (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-07-05-0.31692007321153515.pdf
+(REASONING) Arrangement Of Word (Practice Sheet):https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-09-26-0.33434090768187574.pdf
+(REASONING) Word Formation 01:https://developerrg.vercel.app?course_id=162&video_id=99404
+(REASONING) Word Formation (Class Notes):https://appxcontent.securevideo.in/paid_course4/2024-10-03-0.6901606530999176.pdf
+(REASONING) Word Formation (Practice Sheet):https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-09-26-0.7268811640374369.pdf
+(REASONING) Clock 01:https://developerrg.vercel.app?course_id=162&video_id=97228
+(REASONING) Clock 02:https://developerrg.vercel.app?course_id=162&video_id=97386
+(REASONING) Clock 03:https://developerrg.vercel.app?course_id=162&video_id=97575
+(REASONING) Clock 04:https://developerrg.vercel.app?course_id=162&video_id=98335
+(REASONING) Clock 05:https://developerrg.vercel.app?course_id=162&video_id=98544
+(REASONING) Clock (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-06-14-0.9726802884064214.pdf
+(REASONING) Clock (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-06-29-0.26582688946069144.pdf
+(REASONING) Cube & Cuboid 01:https://developerrg.vercel.app?course_id=162&video_id=99093
+(REASONING) Cube & Cuboid 02:https://developerrg.vercel.app?course_id=162&video_id=99411
+(REASONING) Cube & Cuboid 03:https://developerrg.vercel.app?course_id=162&video_id=99970
+(REASONING) CUBE AND CUBOID (CLASS NOTES):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-06-21-0.847398727602573.pdf
+(REASONING) Cube & Cuboid (Practice Sheet):https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-11-06-0.11119087074546607.pdf
+(REASONING) SYLLOGISM 01:https://developerrg.vercel.app?course_id=162&video_id=107920
+(REASONING) SYLLOGISM 02:https://developerrg.vercel.app?course_id=162&video_id=107925
+(REASONING) SYLLOGISM PART 03:https://developerrg.vercel.app?course_id=162&video_id=108194
+(REASONING) SYLLOGISM PART 04:https://developerrg.vercel.app?course_id=162&video_id=108195
+(REASONING) SYLLOGISM PART 05:https://developerrg.vercel.app?course_id=162&video_id=109129
+(REASONING) SYLLOGISM PART 06:https://developerrg.vercel.app?course_id=162&video_id=109130
+(REASONING) SYLLOGISM PART 07:https://developerrg.vercel.app?course_id=162&video_id=109367
+(REASONING) SYLLOGISM PART 08:https://developerrg.vercel.app?course_id=162&video_id=109368
+(REASONING) SYLLOGISM PART 09:https://developerrg.vercel.app?course_id=162&video_id=109548
+(REASONING) SYLLOGISM PART 10:https://developerrg.vercel.app?course_id=162&video_id=109549
+(REASONING) SYLLOGISM PART 11:https://developerrg.vercel.app?course_id=162&video_id=109670
+(REASONING) SYLLOGISM PART 12 (ONLY, A FEW):https://developerrg.vercel.app?course_id=162&video_id=110008
+(REASONING) SYLLOGISM PART 13:https://developerrg.vercel.app?course_id=162&video_id=110010
+(REASONING) Syllogism Practice Class:https://developerrg.vercel.app?course_id=162&video_id=113072
+(REASONING) Syllogism (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-08-31-0.25867029483442616.pdf
+(REASONING) SYLLOGISM ( PRACTICE SHEET ):https://appxcontent-mcdn.akamai.net.in/paid_course2/2024-01-17-0.5637821840754256.pdf
+(REASONING) Venn Diagram:https://developerrg.vercel.app?course_id=162&video_id=103166
+(REASONING) Venn Diagram 02:https://developerrg.vercel.app?course_id=162&video_id=103484
+(REASONING) Venn Diagram 03:https://developerrg.vercel.app?course_id=162&video_id=103769
+(REASONING) Venn Diagram (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-07-13-0.2550312682978366.pdf
+(REASONING) Venn Diagram (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-07-18-0.6997091124958383.pdf
+(REASONING) Coded Inequality 02:https://developerrg.vercel.app?course_id=162&video_id=104185
+(REASONING) Coded Inequality 01:https://developerrg.vercel.app?course_id=162&video_id=104056
+(REASONING) Coded Inequality 03:https://developerrg.vercel.app?course_id=162&video_id=104596
+(REASONING) Coded Inequality part 6:https://developerrg.vercel.app?course_id=162&video_id=106355
+(REASONING) Coded Inequality 04:https://developerrg.vercel.app?course_id=162&video_id=105482
+(REASONING) Coded Inequality 05:https://developerrg.vercel.app?course_id=162&video_id=106005
+(REASONING) Coded Inequality (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-08-02-0.5930276411651709.pdf
+(REASONING) Coded Inequality (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course2/2023-12-15-0.5275878223504171.pdf
+(REASONING) Statement and Conclusion:https://developerrg.vercel.app?course_id=162&video_id=131591
+(REASONING) Statement and Conclusion 02:https://developerrg.vercel.app?course_id=162&video_id=131879
+(REASONING) Statement Conclusion (Class Notes):https://appxcontent.kaxa.in/paid_course4/2024-12-11-0.0025779607971481155.pdf
+(REASONING) Statement  Conclusion (Practice Sheet):https://appxcontent.kaxa.in/paid_course4/2024-11-27-0.5186901766246828.pdf
+(REASONING) Course of Action:https://developerrg.vercel.app?course_id=162&video_id=135955
+(REASONING) Course of Action 02:https://developerrg.vercel.app?course_id=162&video_id=136382
+(REASONING) Course of Action 03:https://developerrg.vercel.app?course_id=162&video_id=136801
+(REASONING) Course of Action (Class Notes):https://appx-content-v2.classx.co.in/paid_course4/2024-12-26-0.12292274917177048.pdf
+(REASONING) Cause and Effect:https://developerrg.vercel.app?course_id=162&video_id=126504
+(REASONING) Cause and effect 02:https://developerrg.vercel.app?course_id=162&video_id=127910
+(REASONING) Cause and Effect 03:https://developerrg.vercel.app?course_id=162&video_id=128151
+(REASONING) Cause and Effect (Class Notes):https://appxcontent.kaxa.in/paid_course4/2024-11-16-0.26922902154034456.pdf
+(REASONING) Cause and Effect (Practice Sheet):https://appxcontent.kaxa.in/paid_course4/2024-11-16-0.07689834937646434.pdf
+(REASONING) Data Sufficiency 01:https://developerrg.vercel.app?course_id=162&video_id=91082
+(REASONING) Data Sufficiency 02:https://developerrg.vercel.app?course_id=162&video_id=92069
+(REASONING) Data Sufficiency 03:https://developerrg.vercel.app?course_id=162&video_id=92131
+(REASONING) Data Sufficiency (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-05-18-0.18916404160044586.pdf
+(REASONING) Data Sufficiency (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-05-28-0.5687732635737155.pdf
+(REASONING) Decision Making 01:https://developerrg.vercel.app?course_id=162&video_id=102941
+(REASONING) Decision Making 02:https://developerrg.vercel.app?course_id=162&video_id=103161
+(REASONING) Decision Making 03:https://developerrg.vercel.app?course_id=162&video_id=103489
+(REASONING) Decision Making (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-07-23-0.639123505661154.pdf
+(REASONING) Decision Making (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-07-27-0.9537084949308083.pdf
+(REASONING) Mirror & Water Image:https://developerrg.vercel.app?course_id=162&video_id=86178
+(REASONING) Mirror & Water Image 02:https://developerrg.vercel.app?course_id=162&video_id=86195
+(REASONING) Mirror And Water Image (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course2/2023-12-16-0.9670421524851502.pdf
+(REASONING) MIRROR AND WATER IMAGE ( PRACTICE SHEET ):https://appxcontent-mcdn.akamai.net.in/paid_course2/2023-12-21-0.954244894531679.pdf
+(REASONING) Paper Cutting and Folding 01:https://developerrg.vercel.app?course_id=162&video_id=106347
+(REASONING) Paper Cutting and Folding 02:https://developerrg.vercel.app?course_id=162&video_id=106699
+(REASONING) Paper cutting & Folding 03:https://developerrg.vercel.app?course_id=162&video_id=109674
+(REASONING) Paper Cutting & Folding (Class Notes):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-08-19-0.5093648940507263.pdf
+(REASONING) Paper Cutting & Folding (Practice Sheet):https://appxcontent-mcdn.akamai.net.in/paid_course4/2024-08-19-0.8826040599584759.pdf
+(REASONING) Embedded Figure 01:https://developerrg.vercel.app?course_id=162&video_id=122756
+(REASONING) Embedded Figure 02:https://developerrg.vercel.app?course_id=162&video_id=123542
+(REASONING) Embedded Figure (Class Notes):https://appx-content-v2.classx.co.in/paid_course4/2025-01-02-0.049118611040851246.pdf
+(REASONING) Embedded Figure (Practice Sheet):https://appxcontent.kaxa.in/paid_course4/2024-10-10-0.19028038268765335.pdf
+(REASONING) Figure Series 01:https://developerrg.vercel.app?course_id=162&video_id=133169
+(REASONING) Figure Series 02:https://developerrg.vercel.app?course_id=162&video_id=134044
+(REASONING) Figure Series (Class Notes):https://appxcontent.kaxa.in/paid_course4/2024-12-11-0.07756447509988695.pdf
+(REASONING) Figure Series (Practice Sheet):https://appx-content-v2.classx.co.in/paid_course4/2024-12-14-0.47521117119163225.pdf
+(REASONING) DOT SITUATION 01:https://developerrg.vercel.app?course_id=162&video_id=124792
+(REASONING) Dot Situation (Class Notes):https://appxcontent.kaxa.in/paid_course4/2024-11-15-0.5355607933383817.pdf
+(REASONING) Dot Situation (Practice Sheet):https://appxcontent.kaxa.in/paid_course4/2024-11-15-0.6220091980364029.pdf
+batch thumbnail:https://appxcontent.kaxa.in/paid_course3/2024-03-28-0.3241556016579119.jpeg
